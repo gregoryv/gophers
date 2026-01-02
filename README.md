@@ -1,3 +1,5 @@
+ARCHIVED! Moved to https://sogvin.com/gophers
+
 ![](./social_preview.png)
 
 Set of cute gophers you can use in https://excalidraw.com
